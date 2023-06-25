@@ -1,5 +1,6 @@
 package com.backend.integrador.dto;
 
+
 public class OdontologoDto {
 
     private Long id;
